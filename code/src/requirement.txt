@@ -1,0 +1,12 @@
+This API uses Gemini Open AI. Create .env file inside src foler. Place below line of code there:
+GENAI_API_KEY=[[Your+key]]
+
+Install:
+python
+pip
+pip install pandas
+pip install google-genai
+pip install scikit-learn
+pip install cosine_similarity
+pip install load_dotenv
+pip install Flask   
